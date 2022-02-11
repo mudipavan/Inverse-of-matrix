@@ -30,6 +30,6 @@ print (inverse)
 ```
 
 ## OUTPUT:
-[Github logo](inverse.png)
+![Github logo](inverse.png)
 
 ## RESULT:
