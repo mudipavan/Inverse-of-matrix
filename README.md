@@ -26,7 +26,7 @@ for i in range(r):
 print (l2)
 valuel=np.array(l2)
 inverse = np.linalg.inv(valuel)
-print (inverse)
+print (Inverse)
 ```
 
 ## OUTPUT:
