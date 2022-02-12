@@ -1,6 +1,6 @@
 # Inverse-of-matrix
 
-## AIM:To write a python programm to find the inverse of nested array using numpy module.
+## AIM:To write a python program to find the inverse of nested array using numpy module.
 
 ## ALGORITHM:
 ### Step 1:
