@@ -26,8 +26,8 @@ Print the value of the inverse
 
 ## PROGRAM:
 ```
-#Developed By:Manoj Guna Sundar Tella
-#Ref No:21003796
+#Developed By:palamakula deepika
+#Ref No:21003786
 import numpy as np
 l1,l2 = [],[]
 r,c= int(input()),int(input())
